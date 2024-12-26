@@ -1,0 +1,40 @@
+{"questions":
+[
+    {
+    "title": "Which of the following methods is used to update?",
+    "optionA": "GET",
+    "optionB": "POST",
+    "optionC": "PATCH",
+    "optionD": "DELETE",
+    "correctOption": "C",
+    "reviewStatus": false
+  },
+  {
+    "title": "Which of the following methods is used to remove?",
+    "optionA": "GET",
+    "optionB": "POST",
+    "optionC": "PATCH",
+    "optionD": "DELETE",
+    "correctOption": "D",
+    "reviewStatus": false
+  },
+  {
+    "title": "Which of the following methods is used to post?",
+    "optionA": "GET",
+    "optionB": "POST",
+    "optionC": "PATCH",
+    "optionD": "DELETE",
+    "correctOption": "B",
+    "reviewStatus": false
+  },
+  {
+    "title": "Which of the following methods is used to get?",
+    "optionA": "GET",
+    "optionB": "POST",
+    "optionC": "PATCH",
+    "optionD": "DELETE",
+    "correctOption": "A",
+    "reviewStatus": false
+  }
+]
+}
